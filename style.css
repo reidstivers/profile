@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+
+body {
+  /* background-color: #ADBDFF; */
+  color: #1A1423;
+  text-align: center;
+  background-size: 800px;
+  background-image: linear-gradient(to right, #6d77a0, #ADBDFF 400px, #6d77a0 800px);
+}
+
+h1 {
+  color: #1A1423;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  line-height: .6;
+text-align: center;
+}
+
+h2 {
+  color: #1A1423;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* line-height: .4; */
+  width:fit-content;
+  text-align: center;
+}
+
+
+.fa-brands {
+  color: #1A1423;
+  size: 50px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.container {
+  background: #9317CC;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin: 5px 25%;
+  border-radius: 5%;
+  box-shadow: 5px 5px #6f119b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.highlights {
+  background-color: #2FE6DE ;
+  padding: 5px;
+  padding-right: 20px;
+  border-top-right-radius: 95%;
+  border-bottom-right-radius: 5%;
+}
+
+  /* ul > li {
+    color: #ADBDFF
+  } */
+
+  /* color: color here
+
+  .class separated by .s
+
+  #id are separated by #
+
+  use ; to end things
+
+  google extension colorzilla can select colors from websites */
